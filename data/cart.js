@@ -1,1 +1,2 @@
-export const cart=[{}];
+// In cart.js
+export const cart = [];
